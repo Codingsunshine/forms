@@ -1,0 +1,11 @@
+.image1 {
+    background-image: url(pic1.gif);
+ 	min-width: 100px;
+ 	max-width: 100px;
+   }
+
+   .image2 {
+    background-image: url(pic2.gif);
+ 	min-width: 100px;
+ 	max-width: 100px;
+   }

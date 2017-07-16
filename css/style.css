@@ -1,0 +1,17 @@
+body {
+	background: grey;
+	color: white;
+	margin-left: 300px;
+}
+.namebutton{
+	max-height: 200px;
+	max-width: 300px;
+}
+
+p , .col s6{
+	margin-left: 50px;
+}
+
+.mainstory{
+	margin-left: 0;
+}
